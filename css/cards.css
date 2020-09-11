@@ -2,7 +2,7 @@
 
 /*  */
 .categories__container {
-  width: 80vw;
+  width: 90vw;
   margin: 10vh auto;
 }
 
@@ -223,6 +223,10 @@
 /* cards */
 
 @media screen and (min-width: 600px) {
+  .categories__container {
+    width: 80vw;
+    margin: 10vh auto;
+  }
   .expend {
     grid-template-rows: minmax(0, 50vh) auto;
     grid-column: span 2;
