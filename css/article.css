@@ -1,39 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@100;300;400;500;700;800;900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&display=swap");
-
-:root {
-  --main-color: #e20812;
-  --main-darker-color: #b4060e;
-  --basic-white-color: #fff;
-  --basic-darker-white-color: rgb(189, 189, 189);
-  /* font */
-  --font-title: "Cinzel Decorative", cursive;
-  --font-subtitle: "Big Shoulders Text", cursive;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-html {
-  font-family: "Lato", sans-serif;
-}
-
-a {
-  text-decoration: none;
-}
-
-ul {
-  list-style: none;
-}
-
-p {
-  line-height: 1.6;
-}
-
 .article {
   max-width: 100vw;
   display: grid;
@@ -175,6 +139,7 @@ p {
   margin: 0.5rem 0;
   font-weight: 300;
   font-size: 1rem;
+  line-height: 1.6;
 }
 
 .section__quote {
