@@ -11,7 +11,7 @@
   /* background: lightgrey; */
   display: grid;
   grid-template-columns: 1fr auto;
-  grid-template-rows: 1fr;
+  grid-template-rows: 95rem;
   /* grid-template-rows: 80vh; */
 }
 
