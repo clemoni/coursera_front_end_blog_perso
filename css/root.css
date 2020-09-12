@@ -1,0 +1,9 @@
+:root {
+  --main-color: #e20812;
+  --main-darker-color: #b4060e;
+  --basic-white-color: #fff;
+  --basic-darker-white-color: rgb(189, 189, 189);
+  /* font */
+  --font-title: "Cinzel Decorative", cursive;
+  --font-subtitle: "Big Shoulders Text", cursive;
+}

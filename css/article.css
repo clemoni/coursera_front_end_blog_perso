@@ -1,3 +1,14 @@
+/* import google fonts */
+@import url(../css/fonts.css);
+/* import root variables */
+@import url(../css/root.css);
+/* import main css setup */
+@import url(../css/main-setup.css);
+/* import nav css */
+@import url(../css/nav.css);
+/* import footer css */
+@import url(../css/footer.css);
+
 .article {
   max-width: 100vw;
   display: grid;
