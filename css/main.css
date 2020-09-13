@@ -1,0 +1,52 @@
+/* import google fonts */
+@import url(../css/fonts.css);
+/* import root variables */
+@import url(../css/root.css);
+/* import nav css */
+@import url(../css/nav.css);
+/* import footer css */
+@import url(../css/footer.css);
+/* import cards  css*/
+@import url(../css/cards.css);
+/* import articles css */
+@import url(../css/article.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+main {
+  padding-bottom: 15rem;
+}
+
+/* utility class */
+.btn {
+  padding: 0.5rem;
+  font-size: 0.8rem;
+  background: var(--main-color);
+  border: 1px solid var(--main-darker-color);
+  border-radius: 0.2rem;
+  font-weight: 400;
+}
+
+.btn a {
+  color: #fff;
+}
+
+.btn:hover {
+  background: var(--main-darker-color);
+}

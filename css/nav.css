@@ -1,21 +1,3 @@
-/* utility class */
-.btn {
-  padding: 0.5rem;
-  font-size: 0.8rem;
-  background: var(--main-color);
-  border: 1px solid var(--main-darker-color);
-  border-radius: 0.2rem;
-  font-weight: 400;
-}
-
-.btn a {
-  color: #fff;
-}
-
-.btn:hover {
-  background: var(--main-darker-color);
-}
-
 /* logo */
 
 /* No modification throught media query */

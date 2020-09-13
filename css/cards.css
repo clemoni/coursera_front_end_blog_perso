@@ -1,13 +1,13 @@
 /* import google fonts */
-@import url(../css/fonts.css);
+/* @import url(../css/fonts.css); */
 /* import root variables */
-@import url(../css/root.css);
+/* @import url(../css/root.css); */
 /* import main css setup */
-@import url(../css/main-setup.css);
+/* @import url(../css/main-setup.css); */
 /* import nav css */
-@import url(../css/nav.css);
+/* @import url(../css/nav.css); */
 /* import footer css */
-@import url(../css/footer.css);
+/* @import url(../css/footer.css); */
 
 .categories__container {
   width: 90vw;
