@@ -20,6 +20,10 @@
 html {
   font-family: "Lato", sans-serif;
 }
+body {
+  width: 100vw;
+  overflow-x: hidden;
+}
 
 a {
   text-decoration: none;
